@@ -31,7 +31,7 @@ class Contact extends React.Component{
                 }}><FontAwesomeIcon icon={["fab","facebook"]} size="2x"/></a>
 
 
-                <a href="https://github.com/Omkar0720" style={{
+                <a href="https://github.com/Samartha08" style={{
                     textShadow : "0 1px 0 rgba(0,0,0,0.1)",
                     margin : "0rem 2rem 0rem 0.5rem",
                     textDecoration : "none",
